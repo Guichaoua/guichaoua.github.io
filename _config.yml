@@ -1,0 +1,21 @@
+# Usign the Clean Blog theme
+
+title: Homepage of Gwenn Guichaoua
+author: Gwenn Guichaoua
+email: todo
+description: Homepage of Gwenn Guichaoua
+baseurl: ""
+url: "TODO"
+github_username:  gguichaoua
+twitter_username: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
+
+name: TODO
+gems:
+  - jekyll-feed
+  - jekyll-paginate
