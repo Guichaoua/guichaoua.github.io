@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Codes"
-description: "for reproductible research"
+description: ""
 header-img: "img/head.jpg"
 ---
 

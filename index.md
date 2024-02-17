@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Gwenn Guichaoua"
-description: "my homepage"
+description: ""
 header-img: "img/head.jpg"
 ---
 
