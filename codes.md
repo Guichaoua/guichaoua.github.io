@@ -6,4 +6,4 @@ header-img: "img/head.jpg"
 ---
 
 
-[Komets: blabli](https://komet.readthedocs.io)
+[komet](https://komet.readthedocs.io)
