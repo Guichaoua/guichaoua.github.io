@@ -11,4 +11,4 @@ header-img: "img/head.jpg"
 
 Teaching assistant for course "Fondamentaux du machine learning" for industrial partners of PRAIRIE, 28-30th of November 2022
 
-Teaching assistant for course "Large Scale Machine Learning Week" for Mines Paris-PSL students, 7th of March 2024
+Teaching assistant for [course "Large Scale Machine Learning Week"](https://cazencott.info/index.php/pages/LSML-24:-Large-Scale-Machine-Learning) for Mines Paris-PSL students, March 4-8, 2024 
