@@ -13,4 +13,6 @@ My publications:
 
 * [Rodrigues-Ferreira, S., Morin+, M., Guichaoua+, G., Moindjie, H., Haykal, M. M., Collier, O., Stoven, V., Nahmias, C. (2023). A Network of 17 Microtubule-Related Genes Highlights Functional Deregulations in Breast Cancer. Cancers, 15(19), 4870. (+ These authors contributed equally to this work)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10571893/)
   
-* [Guichaoua, G., Pinel, P.,  Hoffmann, B.,  Azencott, CA., Stoven, V. (2024). Advancing Drug-Target Interactions Prediction: Leveraging a Large-Scale Dataset with a Rapid and Robust Chemogenomic Algorithm. BioRxiv doi: 10.1101/2024.02.22.581599](https://doi.org/10.1101/2024.02.22.581599).
+* [Guichaoua, G., Pinel, P.,  Hoffmann, B.,  Azencott, CA., Stoven, V. (2024). Drug–Target Interactions Prediction at Scale: The Komet Algorithm with the LCIdb Dataset. Journal of Chemical Information and Modeling. doi: 10.1021/acs.jcim.4c00422](https://doi.org/10.1101/2024.02.22.581599).
+
+* [Pinel, P., Guichaoua, G., Devaux, N., Gaston-Mathe, Y., Hoffmann, B., & Stoven, V. (2024). A molecular representation to identify isofunctional molecules. BioRxiv. doi:10.1101/2024.05.03.592355](https://doi.org/10.1101/2024.05.03.592355)
