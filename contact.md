@@ -12,5 +12,5 @@ MINES Paris PSL <br>
 
 Mail: gwenn.guichaoua@minesparis.psl.eu
 
-[Resume](https://www.dropbox.com/scl/fi/5enxvw5ohc6ciowu8hz0s/cv-gwenn_2024_ADUM.pdf?rlkey=z9xyfl3lpp4it9gxdv71jql52&st=cusa3ufy&dl=0)
+[Resume](https://www.dropbox.com/scl/fi/5enxvw5ohc6ciowu8hz0s/cv-gwenn_2024_ADUM.pdf?rlkey=z9xyfl3lpp4it9gxdv71jql52&st=3dzfg9sa&dl=0)
 
