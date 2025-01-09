@@ -9,9 +9,9 @@ header-img: "img/head.jpg"
 
 [Des TP et leurs corrections pour la spécialité NSI en Terminale](https://github.com/Guichaoua/NSI_Term_ipynb)
 
-Teaching assistant for [course "Fondamentaux du machine learning"](https://executive-education.minesparis.psl.eu/formations/certificat-chef-de-projet-intelligence-artificielle/) for industrial partners of PRAIRIE, November 2022 and November 2024
+Teaching assistant for [course "Fondamentaux du machine learning"](https://executive-education.minesparis.psl.eu/formations/certificat-chef-de-projet-intelligence-artificielle/) for industrial partners of PRAIRIE (November 2022 and November 2024)
 
-Teaching assistant for [course "Large Scale Machine Learning Week"](https://cazencott.info/index.php/pages/LSML-24:-Large-Scale-Machine-Learning) for Mines Paris-PSL students, March 4-8, 2024 
+Teaching assistant for [course "Large Scale Machine Learning Week"](https://cazencott.info/index.php/pages/LSML-24:-Large-Scale-Machine-Learning) for Mines Paris-PSL students (March 2024) 
 
 Teaching assistant for course "Artificial Learning" to Mines Paris-PSL students (December 2024) 
 
