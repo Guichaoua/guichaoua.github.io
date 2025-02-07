@@ -15,4 +15,4 @@ My publications:
   
 * [Guichaoua, G., Pinel, P.,  Hoffmann, B.,  Azencott, CA., Stoven, V. (2024). Drug–Target Interactions Prediction at Scale: The Komet Algorithm with the LCIdb Dataset. Journal of Chemical Information and Modeling. doi: 10.1021/acs.jcim.4c00422](https://doi.org/10.1101/2024.02.22.581599).
 
-* [Pinel, P., Guichaoua, G., Devaux, N., Gaston-Mathe, Y., Hoffmann, B., & Stoven, V. (2024). A molecular representation to identify isofunctional molecules. BioRxiv. doi:10.1101/2024.05.03.592355](https://doi.org/10.1101/2024.05.03.592355)
+* [Pinel, P., Guichaoua, G., Devaux, N., Gaston-Mathe, Y., Hoffmann, B., & Stoven, V. (2024). A molecular representation to identify isofunctional molecules. Molecular Informatics DOI: 10.1002/minf.202400159](https://doi.org/10.1101/2024.05.03.592355)
